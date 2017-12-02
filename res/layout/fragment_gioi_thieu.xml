@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ScrollView1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+        
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:text="GIỚI THIỆU"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#ffffff"
+                android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/fragment_gioi_thieu_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/textView1"
+        android:layout_marginTop="22dp"
+        android:text="Chắc hẳn đối với chúng ta, khái niệm “truyện ma” là cụm từ đã quá đỗi quen thuộc. Bạn có nhớ những tối mất điện ngày bé, ngồi quây tròn bên ánh nến lập lòe, hồi hộp lắng nghe người lớn kể lại những câu chuyện hoang đường, rùng rợn ? Hay mỗi khi chúng ta không nghe lời, cha mẹ vẫn thường mang những “ông ba bị”, “ngáo ộp”… ra dọa dẫm ? Với sự bùng nổ của mạng xã hội, những câu chuyện ma quỷ đó không chỉ đơn giản mang tính “truyền miệng” nữa, mà nhanh chóng ngập tràn khắp nơi trên internet, chúng được gọi chung là Creepypasta.\n\nCreepypasta là gì ? Trước hết, hãy tìm hiểu khái niệm Copypasta (đọc chệch từ copy-paste), bao gồm những đoạn text được lan truyền theo công thức “copy-paste” lại liên tục trên internet, và thường mang tính chất là những “tin rác” (Spam). Ví dụ rõ ràng nhất là những tin nhắn Yahoo hay Facebook yêu cầu bạn forward cho toàn bộ bạn bè của mình nếu như không muốn bị khóa tài khoản, hoặc những mẩu chuyện có nội dung như : Nếu gửi cho X người trong vòng Y giờ, bạn sẽ gặp may mắn…\n\nNếu nhận được sự ủng hộ của các bạn chúng tôi sẽ tiếp tục cập nhật thêm nhiều truyện nữa...\n\n"
+        android:textColor="#ffffff" />
+        
+        
+    </RelativeLayout>
+
+</ScrollView>

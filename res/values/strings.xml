@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Truyện Creepypasta</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="txt_start_tacgia">Tuyển Tập Truyện Creepypasta</string>
+    <string name="title_activity_main">Truyện Creepypasta</string>
+    <string name="title_activity_setting">Cài Đặt</string>
+    <string name="title_activity_about">Giới Thiệu</string>
+    <string name="title_activity_thong_tin">Danh Sách Ứng Dụng</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="title_activity_video">VideoActivity</string>
+    
+     <string name="txt_gioithieuchungve_about">Giới Thiệu Chung Về</string>
+    <string name="txt_gioithieunhom_bout">StartFirst là một nhóm lập trình viên yêu thích lập trình cho các thiết bị di động.\n Tiêu chí của nhóm phát triển phần mềm là mang đến cho mọi người những ứng dụng và phần mềm bổ ích nhất phục vụ cho học tập giả trí. Tất cả các phần mềm đều miễn phí.\n\n Ứng dụng sẽ tiếp tục được cập nhật trong thời gian tới.</string>
+        <string name="txt_email">Email:</string>
+    <string name="txt_diachi_email">start.first.group@gmail.com</string>
+
+</resources>
